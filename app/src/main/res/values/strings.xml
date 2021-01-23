@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ViewWeather</string>
+    <string name="button_search">Find weather by City</string>
+    <string name="text_view_text">Enter city</string>
+
+    <string name="wind">Wind</string>
+    <string name="temperature">Temperature</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="description">Description</string>
+    <string name="city_hint">Type a city</string>
+    <string name="city_not_found">No data found for this city.</string>
+    <string name="inputCity">Please input city</string>
+    <string name="waitingMessage">Wait for current weather data</string>
+</resources>
